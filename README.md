@@ -27,6 +27,6 @@ On the client side, which will be the browsers, there is no doubt they are a HTM
 * ~~I've tried to do an sample experiment on <http://52.69.49.50/test.html> which is a sample html deployed on EC2. I was not able to edit the page.~~ --> Looks like all the submit transactions work async. It was just the matter of time.
 * Security. While editing the variation, Optimizely needs an public accessable page. The page is publicaly accessable from the first place so there is no need for concern. On the other hand, providing access logs to Optmizely might have some concerns. 
 * Security. If using public SaaS is the concern, then **do not use them**. But at the same time, if you want this service to be an enterprise secure SaaS, **"provide a custom authentication service"**, **"Enable VPN"**, **"Single Sign On"** might be a solution.
-![test2](https://drive.google.com/thumbnail?id=0B47WpwesBOLseUc4ZzVMaF9UclE&authuser=0&v=1433459248411&sz=w2560-h1576)  
+![test2](https://lh3.googleusercontent.com/fCkqlEt60w982pmQm7cmvw5l_9y9ST3MrEh7cnVakLmsfNoyxZ9pn4-4OvJwKZ9tGIFc0IZt_dPpqyg=w2560-h1576-rw)  
 
 
