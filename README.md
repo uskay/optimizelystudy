@@ -6,7 +6,7 @@ Lean the technology used in the world famous startup and leverage the knowledge.
 ## Use case
 Optimizely is a SaaS for AB Testing. The basic use case will be below.
   
-![test](https://drive.google.com/file/d/0B47WpwesBOLsUFNvZC14OGN5S2s/view?usp=sharing)
+![test](https://lh3.googleusercontent.com/qPq70-B0GDdmfa1AIoM7UQKM45-QU2shAygKBzyBsuKNdv-Nsa7z8JOs2Z1Q2FFgJqbIbgN43wjtFmA=w2560-h1576-rw)
 
 ## Platform
 Optimizely seems to be using Google App Engine. The access log from Optimizely would be below.  
