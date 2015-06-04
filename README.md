@@ -1,7 +1,4 @@
-# OptimizelyStudy
-
-====
-
+# OptimizelyStudy  
 ## Objectives
 This study is to understand Optimizely as a technical context.  
 Lean the technology used in the world famous startup and leverage the knowledge.  
@@ -27,12 +24,7 @@ On the server side, which only the developers knows, should be using ether Pytho
 On the client side, which will be the browsers, there is no doubt they are a HTML/Js/Css specialists. It is obvious Optimizely seems to have favor in JQuery(I'd say when providing a quick fix patch for executing A/B Tests, you will need a simple DOM operating codes. JQuery meets the conditions.)
 
 ## Concerns
-* I've tried to do an sample experiment on <http://52.69.49.50/test.html> which is a sample html deployed on EC2. I was not able to edit the page.
+* I've tried to do an sample experiment on <http://52.69.49.50/test.html> which is a sample html deployed on EC2. I was not able to edit the page. --> Looks like all the submit transactions work async. It was just the matter of time.
 * Security. While editing the variation, Optimizely needs an public accessable page. The page is publicaly accessable from the first place so there is no need for concern. On the other hand, providing access logs to Optmizely might have some concerns. 
 
-## Requirement
-
-## Usage
-
-## Install
 
