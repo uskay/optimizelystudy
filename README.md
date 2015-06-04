@@ -1,4 +1,4 @@
-# OptimizelyStudy  
+# Optimizely Study  
 ## Objectives
 This study is to understand Optimizely as a technical context.  
 Lean the technology used in the world famous startup and leverage the knowledge.  
