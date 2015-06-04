@@ -20,10 +20,13 @@ You will notice it has a **AppEngine-Google** identifier(*1).
 *1 No wonder they suggest using the App Engine. The CTO, Pete Koomen, is a former App Engine product manager.  
 <https://www.linkedin.com/profile/view?id=50948717&authType=NAME_SEARCH&authToken=Wal6&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1433452703012%2Ctas%3Apete%20koo>
 
+## Programming Language / Frameworks
+On the server side, which only the developers knows, should be using ether Python、Java、PHP or Go since they're using the App Engine. It's conciderable to bet on Python by looking at their blogs.
+<https://blog.optimizely.com/2012/09/12/optimizely-open-sources-python-scripts-for-amazon-ec2/>  
+  
+On the client side, which will be the browsers, there is no doubt they are a HTML/Js/Css specialists. It is obvious Optimizely seems to have favor in JQuery(I'd say when providing a quick fix patch for executing A/B Tests, you will need a simple DOM operating codes. JQuery meets the conditions.)
 
-
-
-## VS. 
+## Concerns
 
 ## Requirement
 
