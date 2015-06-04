@@ -29,4 +29,8 @@ On the client side, which will be the browsers, there is no doubt they are a HTM
 * Security. If using public SaaS is the concern, then **do not use them**. But at the same time, if you want this service to be an enterprise secure SaaS, **"provide a custom authentication service"**, **"Enable VPN"**, **"Single Sign On"** might be a solution.
 ![test2](https://lh3.googleusercontent.com/fCkqlEt60w982pmQm7cmvw5l_9y9ST3MrEh7cnVakLmsfNoyxZ9pn4-4OvJwKZ9tGIFc0IZt_dPpqyg=w2560-h1576-rw)  
 
+## Memo
+The founder of Optimizely is Dan Siroker a former Googler and 2008 Obama campain analytic lead. I clearly remember the 2008 Obama speech at Google with Eric Schmit.   
+<https://www.youtube.com/watch?v=m4yVlPqeZwo>
+
 
