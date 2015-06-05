@@ -32,5 +32,12 @@ On the client side, which will be the browsers, there is no doubt they are a HTM
 ## Memo
 The founder of Optimizely is Dan Siroker a former Googler and 2008 Obama campain analytic lead. I clearly remember the 2008 Obama speech at Google with Eric Schmit.   
 <https://www.youtube.com/watch?v=m4yVlPqeZwo>
+
+## Idea pad
+* What happens if the website is a SPA? The Optimizely script executes when the page loads. Things changed afterwards will not be a scope(Dynamicaly changing doms with Javascript, showing message with ajax/json)
+* Kaizen Platform has Groth Hacker network with allows Web designers to suggest A/B Test UI.
+* How does this sound?
+![test3](https://lh3.googleusercontent.com/MXN2cg9nOpCgTo7K7rx_fGMssnd3BnkuzJxbAaP815i4plPJgsM4kF3cQCRe24PMMR6vQm_50SNhkVg=w2560-h1576-rw)
+  
   
 
