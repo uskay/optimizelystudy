@@ -38,6 +38,6 @@ The founder of Optimizely is Dan Siroker a former Googler and 2008 Obama campain
 * Kaizen Platform has Groth Hacker network with allows Web designers to suggest A/B Test UI.
 * How does this sound?
 ![test3](https://lh3.googleusercontent.com/MXN2cg9nOpCgTo7K7rx_fGMssnd3BnkuzJxbAaP815i4plPJgsM4kF3cQCRe24PMMR6vQm_50SNhkVg=w2560-h1576-rw)
-  
+* stragegy
   
 
